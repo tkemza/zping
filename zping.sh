@@ -168,7 +168,7 @@ function mainMenu() {
                 sleep 0.2
                 exit 1
             fi
-
+	    sleep 3.1
             echo ""
             echo " Entered Website Domain: ${DARKGREEN} $domain ${RESETBG}"
             echo " ${CYAN}════════════════════════════════${RESETBG}"
@@ -208,6 +208,9 @@ function mainMenu() {
             sleep 0.9
             echo "Traceroute to ${DARKGREEN}$domain:${RESETBG}"
             traceroute $domain
+	    echo ""
+     	    echo ""
+	    sleep 1.2
         fi
     done
 }
