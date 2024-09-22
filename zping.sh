@@ -14,21 +14,6 @@
 
 # The creator will not be responsible for the consequences caused by this tool!
 
-
-# Including source Directories and Files
-source docker/dockerfile
-source makefile/makefile
-source package/src/packageinstall.py
-source package/src/packageinstall.sh
-source package/src/packageinstall.c
-source pics/galazping.png
-source pics/zping.png
-source update/src/update.py
-source update/src/update.sh
-source update/src/update.c
-source README.md
-source LICENSE.md
-
 # Reset attributes function
 function reset_color() {
     # Reset color (exit codes)
