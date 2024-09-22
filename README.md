@@ -25,13 +25,13 @@
 
 <b>A tool that is by members inside GreyHat hacker declarations and organizations better known as <i>ZeroByte</i>, is made for penetration testing and pinging of hosts, ip addresses, domains, DNSs, Fetching HTTP headers and Traceroutes, which works efficiently and quickly while safely navigating web hacker mazes without leaving behind no trace of getting the desired victim site information. We, as the creators of this tool, retain the copyright and have no tolerance for root and source code theft, so this tool is placed under the GPL license, which retains the aforementioned rights. The tool was created to demonstrate how websites and their feedback work, however, it violates the privacy and protection rights of all websites, especially those that are not under protection, which can be the main attraction for hackers due to very fast access and anonymous theft of website data. Also, as the creators of this tool, we are not responsible and will not be responsible if someone violates any rights by using this tool.</b>
 
-<i>Any actions and or activities related to <b>Zping</b> is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<b>Any actions and or activities related to <b>Zping</b> is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 This toolkit contains materials that can be potentially damaging or dangerous for social media websites. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
 <b>This Tool is made for educational purposes only!</b> Do not attempt to violate the law with anything contained here. If this is your intention, then Get the hell out of here!
 
-It only demonstrates <b>"how scanning works"</b>. You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk. <b>The creator will not be responsible for the consequences caused by this tool!</b></i>
+It only demonstrates <b>"how scanning works"</b>. You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk. <b>The creator will not be responsible for the consequences caused by this tool!</b></b>
 
 
 # Zping
